@@ -2,7 +2,7 @@
 
 Servo is the possibility, to control one Servo without digital knick-knacks.<br>
 
-For more details please refer to the [manual](ServoAnsteuerung.pdf).<br>
+For more details please refer to the [manual](Documentation/ServoAnsteuerung.pdf).<br>
 
 The software [ServoAnsteuerung](http://www.github.com/Kruemelbahn/ServoAnsteuerung) can be used to change parameters in hex-file.<br>
 
